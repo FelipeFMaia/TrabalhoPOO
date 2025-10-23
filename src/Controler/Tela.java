@@ -1,4 +1,4 @@
-package Controler;
+package controler;
 
 import Modelo.Personagem;
 import Modelo.Caveira;
